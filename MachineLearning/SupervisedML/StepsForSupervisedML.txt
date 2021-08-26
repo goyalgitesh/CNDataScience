@@ -1,0 +1,14 @@
+Supervised Learning : It is basicallly a type of machine Learning in which we know about the pattern
+of input and output data.
+
+Steps for build a Supervised ML Model:
+1. Find data source.
+2. Data loading and cleaning.
+     a)  It includes taking care of null data
+     b) converting data from one form to another
+     c) dividing the data in training and testing sets.
+3. Pick an algorithm
+4. Train the algorithm
+5. Test the algorithm
+6. If algorithm not works well try again above steps with different algorithm.
+
